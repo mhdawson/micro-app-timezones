@@ -36,7 +36,7 @@ Simply run npm install micr-app-timezones
 
 # Running
 
-To run the phone-dialer, add node.js to your path (currently requires 4.x or better) and
+To run the timezones app, add node.js to your path (currently requires 4.x or better) and
 then run:
 
 <PRE>
@@ -68,7 +68,7 @@ The following is the page shown for my configuration:
 # Key Depdencies
 
 ## micro-app-framework
-As a micro-app the phone-dialer depends on the micro-app-framework:
+As a micro-app the timezones app depends on the micro-app-framework:
 
 * [micro-app-framework npm](https://www.npmjs.com/package/micro-app-framework)
 * [micro-app-framework github](https://github.com/mhdawson/micro-app-framework)
