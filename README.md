@@ -65,7 +65,7 @@ The following is the page shown for my configuration:
 
 ![sample timezones page](https://raw.githubusercontent.com/mhdawson/micro-app-timezones/master/pictures/timezones-window.jpg)
 
-#Key Depdencies
+# Key Depdencies
 
 ## micro-app-framework
 As a micro-app the phone-dialer depends on the micro-app-framework:
