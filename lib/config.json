@@ -1,0 +1,12 @@
+{
+  "title": "Timezones",
+  "dashboardEntries": [ { "person": "Me", "offset": -5 },
+                        { "person": "Hursley", "offset": 0 },
+                        { "person": "James", "offset": -8 },
+                        { "person": "Gireesh", "offset": 5.5  },
+                        { "person": "Matt", "offset": -6 },
+                        { "person": "BenN", "offset": 1 },
+                        { "person": "Ritchie", "offset": -8 },
+                        { "person": "TonyF", "offset": -5 }
+                      ]
+}
