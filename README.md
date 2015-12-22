@@ -30,11 +30,11 @@ As an example the configuration file that comes with the install is:
 }
 </PRE>
 
-#Installation
+# Installation
 
 Simply run npm install micr-app-timezones
 
-#Running
+# Running
 
 To run the phone-dialer, add node.js to your path (currently requires 4.x or better) and
 then run:
@@ -59,7 +59,7 @@ In which case the people you have specified in the URL will be displayed instead
 those in the config.json file
 
 
-#Example
+# Example
 
 The following is the page shown for my configuration:
 
