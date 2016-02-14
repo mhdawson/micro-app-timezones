@@ -1,6 +1,6 @@
 {
   "name": "micro-app-timezones",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple micro-app to keep track of the current time for people you work with",
   "main": "lib/server.js",
   "scripts": {
